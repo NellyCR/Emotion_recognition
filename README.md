@@ -18,20 +18,30 @@ Real-time emotion recognition applied to marketing & retail.
 
 ## Objective
 
-Compare the results obtained using emotion recognition versus a traditional survey.
-Create a case study in partnership with the Dutch company Renoon, a research tool for sustainable fashion.
+1.Compare a traditional survey vs survey using emotion recognition.
+
+2.Create a case study in partnership with the Dutch company Renoon, a research tool for sustainable fashion.
 
 ## Workflow
 
 ✓ Research : psychology of emotions, computer vision, object detection , emotion recognition, deep learning , convolutional neural networks.
+
 ✓ Find data
+
 ✓ Clean data 
-✓ Build 
+
+✓ Build model
+
 ✓ Train model with different architectures
+
 ✓ Create case study 
+
 ✓ Test the model 
-✓ Compare results
+
+✓ Compare results vs the traditional survey
+
 ✓ Formulate conclusions
+
 ✓ Create presentation
 
 
@@ -39,8 +49,11 @@ Create a case study in partnership with the Dutch company Renoon, a research too
 
 
 Code : Final model (version 17th 61% accuracy at 30 epochs) + webcam video tester.
+
 Models : Models I tried before the final version.
+
 Data : Data analysis with pandas.
+
 README 
 
 ## Links 
