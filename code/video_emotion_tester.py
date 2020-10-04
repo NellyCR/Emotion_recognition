@@ -3,7 +3,7 @@ import numpy as np
 from keras.models import model_from_json
 from keras.preprocessing import image
 
-#load model the final version is number 17 at 30 epochs and 60% accuracy 
+#load model the final version is number 17 at 30 epochs and 61% accuracy 
 model = model_from_json(open("emotions17.json", "r").read())
 #load weights
 model.load_weights('emotions17.h5')
